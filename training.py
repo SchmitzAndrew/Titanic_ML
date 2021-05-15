@@ -3,6 +3,7 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.model_selection import train_test_split
 from sklearn import metrics
 
+
 training_file_path = "data/train.csv"
 testing_file_path = "data/test.csv"
 
